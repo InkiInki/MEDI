@@ -46,11 +46,11 @@ Just run Main.py
 You can cite our paper as:
 ```
 @article{Zhang:2022:multi,
-author		=	{Yu-Xuan Zhangand Mei Yang and Zheng Chun Zhou and Fan Min},
-title		=	{Multi-instance embedding learning with deconfounded instance-level prediction},
-journal		=	{Research Square},
-year		=	{2022},
-doi			=	{10.21203/rs.3.rs-1729204/v1},
-url			=	{https://www.researchsquare.com/article/rs-1729204/v1}
+author      =	{Yu-Xuan Zhangand Mei Yang and Zheng Chun Zhou and Fan Min},
+title       =	{Multi-instance embedding learning with deconfounded instance-level prediction},
+journal     =	{Research Square},
+year        =	{2022},
+doi         =	{10.21203/rs.3.rs-1729204/v1},
+url         =	{https://www.researchsquare.com/article/rs-1729204/v1}
 }
 ```
