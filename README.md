@@ -2,7 +2,7 @@
 ====
 
 Official repository for *Multi-Instance Embedding Learning with Deconfounded Instance-Level Prediction (MEDI)*.<br>
-Any question can contact with inki.yinji@gmail.com
+Any question can contact with inki.yinji@gmail.com<br>
 My home pages:
   * [https://inkiyinji.top](https://inkiyinji.top "Inki's home")
   * [https://inkiyinji.blog.csdn.net](https://inkiyinji.blog.csdn.net "Inki's blog")
